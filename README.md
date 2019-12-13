@@ -1,2 +1,2 @@
-# ADLS
-Gistに上がってたADLS用に書いたruby
+# ALDS
+Gistに上がってたALDS用に書いたruby
